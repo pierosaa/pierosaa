@@ -1,4 +1,4 @@
-### Hola soy Piero el fachero 👋
+### Hola soy Piero 👋
 
 - 🔭 Actualmente estoy aprendiendo a programar en Python
 
